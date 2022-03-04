@@ -1,6 +1,9 @@
 # Hello, folks! <img src="https://github.com/duonghb53/duonghb53/blob/main/wave.gif" width="30px">
 
-My name is DuongHB and I'm a Software Engineer and Blockchain Developer. 
+My name is DuongHB.
+
+I'm a Software Engineer and Blockchain Developer. 
+
 I'm from Vietnam, living in Hung Yen and currently working at Transcosmos-VN Co, Ltd.
 
 ## 🔧 Technologies & Tools
