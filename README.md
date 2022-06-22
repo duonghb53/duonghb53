@@ -6,7 +6,7 @@ My name is DuongHB.
 
 I'm a Software Engineer and Blockchain Developer. 
 
-I'm from Vietnam, living in Hung Yen and currently working at Transcosmos-VN Co, Ltd.
+I'm from Vietnam, living in Hung Yen and currently working at BTC Studio.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
