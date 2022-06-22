@@ -1,5 +1,7 @@
 # Hello, folks! <img src="https://github.com/duonghb53/duonghb53/blob/main/wave.gif" width="30px">
 
+<a href="https://app.daily.dev/duonghb53"><img src="https://api.daily.dev/devcards/797a398dce654c0c8c8f438f9b2b7614.png?r=n3o" width="400" alt="Duong Ha Bao's Dev Card"/></a>
+
 My name is DuongHB.
 
 I'm a Software Engineer and Blockchain Developer. 
