@@ -4,7 +4,7 @@
 
 My name is DuongHB.
 
-I'm a Software Engineer and Blockchain Developer. 
+I aspire to be a Senior Developer and a Blockchain Developer expert
 
 I'm from Vietnam.
 ## 🔧 Technologies & Tools
