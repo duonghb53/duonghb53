@@ -2,11 +2,14 @@
 
 <a href="https://app.daily.dev/duonghb53"><img src="https://api.daily.dev/devcards/797a398dce654c0c8c8f438f9b2b7614.png?r=n3o" width="400" alt="Duong Ha Bao's Dev Card"/></a>
 
+ <img src="https://github-readme-stats.vercel.app/api?username=duonghb53&show_icons=true">
 My name is DuongHB.
 
-I aspire to be a Senior Developer and a Blockchain Developer expert
+I aspire to be a Senior Developer and a Blockchain Developer expert.
 
-I'm from Vietnam.
+
+From Vietnam.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
