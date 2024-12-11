@@ -4,11 +4,7 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=duonghb53&show_icons=true">
 
- 
-My name is DuongHB.
-
-I aspire to be a Senior Developer and a Blockchain Developer expert.
-
+Blockchain Enthusiast
 
 From Vietnam.
 
