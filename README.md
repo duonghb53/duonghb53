@@ -1,3 +1,10 @@
+[<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://badge.race-of-sloths.com/duonghb53?theme=dark&wallet=duonghb.near">
+    <source media="(prefers-color-scheme: light)" srcset="https://badge.race-of-sloths.com/duonghb53?theme=light&wallet=duonghb.near">
+    <img alt="Shows profile image on the Race-of-Sloths" src="https://badge.race-of-sloths.com/duonghb53?wallet=duonghb.near">
+</picture>
+](https://race-of-sloths.com/profile/duonghb53)
+
 # Hello, folks! <img src="https://github.com/duonghb53/duonghb53/blob/main/wave.gif" width="30px">
 
 <a href="https://app.daily.dev/duonghb53"><img src="https://api.daily.dev/devcards/v2/dgJX4qrV91ulVIWcfq3mb.png?r=jwg&type=wide" width="652" alt="Duong Ha Bao's Dev Card"/></a>
