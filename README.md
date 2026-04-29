@@ -4,7 +4,7 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=duonghb53&show_icons=true">
 
-Blockchain Enthusiast
+AI & Blockchain Enthusiast
 
 From Vietnam.
 
