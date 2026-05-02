@@ -2,7 +2,6 @@
 
 <a href="https://app.daily.dev/duonghb53"><img src="https://api.daily.dev/devcards/v2/dgJX4qrV91ulVIWcfq3mb.png?type=default&r=uy5" width="356" alt="Duong Ha Bao's Dev Card"/></a>
 
- <img src="https://github-readme-stats.vercel.app/api?username=duonghb53&show_icons=true">
 
 AI & Blockchain Enthusiast
 
